@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**yairxben/yairxben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS graduate from HUJI.
 
-Here are some ideas to get you started:
+- 💻 Interested in systems, algorithms, and clean, efficient code
+- 🛠️ Working mainly with C/C++, Python, and Java
+- 🧠 Strong background in data structures, algorithms, operating systems, and ML fundamentals
+- 🌱 Always learning and improving as an engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🧭 **Vision-Based SLAM** - navigation system using computer vision
+- 🧵 **User-Level Threads** - C++ library for managing user-level threads
+
+### Tech
+C/C++ · Python · Java · Linux · Git · SQL
+
+### Get in touch
+- 💼 LinkedIn: https://www.linkedin.com/in/yair-ben-289b82342/
+- 📧 Email: Yarbe96@gmail.com
